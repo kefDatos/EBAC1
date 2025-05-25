@@ -11,3 +11,5 @@ print('Resultado=',d+c)
 
 print('ya se soluciono')
 
+#cambio bug2 d=200-100
+d=200-100
