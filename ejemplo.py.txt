@@ -7,4 +7,7 @@ d=5
 #cambio bug1 d=200
 d=200
 print('Resultado=',d+c)
+#cambio bug2 
+
+print('ya se soluciono')
 
