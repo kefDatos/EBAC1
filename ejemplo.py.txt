@@ -3,4 +3,8 @@ b=30
 c=30*10
 print('Resultado=',c)
 d=5
+
+#cambio bug1 d=200
+d=200
 print('Resultado=',d+c)
+
